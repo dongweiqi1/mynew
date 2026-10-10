@@ -4411,8 +4411,10 @@ EURONEWS,https://jmp2.uk/stvp-DE2600003TR
 EURONEWS H,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 AJE news English,https://live-hls-apps-aje-fa.getaj.net/AJE/03.m3u8
+Al Jazeera,https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+DW Tv,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 fox-Business,https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_400.m3u8
 fox-Business,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105893.ts
 FOX NEW,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/19147/index.m3u8
