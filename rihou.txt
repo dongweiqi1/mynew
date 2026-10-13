@@ -4550,29 +4550,22 @@ DC COUNCIL CHANNEL,http://video.oct.dc.gov/out/u/15_12.m3u8
 TVB 新 聞,https://cdn6.cc.cd/163189/wxxw
 TVB無綫 新聞,http://r.jdshipin.com/CkuBd
 无线 新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:42:10:51&stream=1495601
-无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=153399
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,https://cdn.qd.je/163189.php?id=fct
 翡 翠 台,https://10.fast.hidns.vip/163189/fct/
-翡翠台,http://r.jdshipin.com/62WM7
+翡翠台HD,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
 翡翠台 HD,https://cdn6.cc.cd/163189/fct
 HOY 77,http://r.jdshipin.com/sFw4S
 HOY77,https://cdn6.cc.cd/163189/hoy
-HOY77,http://173.208.234.146/live/hoy77.m3u8
 HOY77,https://fast.hidns.vip/163189/hoy
-HOY77,https://cdn.123.rr.kg/163189/hoy
 有綫新聞,https://cdn.qd.je/163189.php?id=hoy78
 HOY资讯台,https://fast.hidns.vip/163189/hoy78
-HOY78,https://cdn.123.rr.kg/163189/hoy78
-HOY國際財經,http://173.208.234.146/live/hoy76.m3u8
 HOY76,https://cdn.qd.je/163189.php?id=hoy76
-Now 新闻台,https://cdn.123.rr.kg/163189/now
 Now新聞臺,http://173.208.234.146/live/nowxw.m3u8
 NOW新闻台,https://cdn.qd.je/163189.php?id=now
 明珠台,http://r.jdshipin.com/ZQ4kN
 ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,http://r.jdshipin.com/TcKr2
 VIUTV,https://cdn.qd.je/163189.php?id=viu
 VIUTV6,https://cdn.qd.je/163189.php?id=viu6
 VIUTV6,https://10.fast.hidns.vip/163189/viu6/
@@ -4594,14 +4587,7 @@ TVB星河,http://r.jdshipin.com/sXuuD
 華麗翡翠台1,https://cdn6.cc.cd/163189/hlfct
 華麗翡翠台2,https://cdn3.123.rr.kg/stream/live/hlt/
 華麗翡翠台(硬字幕),https://cdn6.cc.cd/163189/jade
-華麗翡翠台(新加坡),https://cdn3.123.rr.kg/stream/live/jade/
-TVB DRAMA翡翠剧集台,http://cdn6.123.rr.kg/163189/tvbd
-TVB1,http://cdn6.123.rr.kg/163189/tvb1
-TVB J1,http://cdn6.123.rr.kg/163189/j1
 TVB 1 US,https://cdn.qd.je/163189.php?id=tvb1
-无線新闻,http://cdn6.123.rr.kg/163189/wxxw
-娱乐新闻台,http://cdn6.123.rr.kg/163189/ylxw
-VIUTV,https://cdn.123.rr.kg/163189/viu
 TVB 1,https://cdn6.cc.cd/163189/tvb1
 TVBJ1,https://cdn6.cc.cd/163189/j1
 TVBJ1,https://cdn.qd.je/163189.php?id=j1
@@ -4616,11 +4602,10 @@ TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 澳门莲花,https://cdn6.cc.cd/163189/amlh
 大灣區衛視,http://173.208.234.146/live/nfws.m3u8
 大灣區衛視(備),http://173.208.234.146/live/nfwsitv.m3u8
+大灣區衛視(國際)-grtn,http://173.208.234.146/live/gdgj.m3u8
 廣東珠江(備),http://173.208.234.146/live/gdzjitv.m3u8
 北美焦点新闻台,https://7612-5516-affc-d88b.kylintv.tv/live/qljdhd_iphone.m3u8
 北美美食播客,https://0832-1dbe-95df-5158.kylintv.tv/live/bmmssp_iphone.m3u8
-北美生活视频,https://0832-1dbe-95df-5158.kylintv.tv/live/bmshsp_iphone.m3u8
-大灣區衛視(國際)-grtn,http://173.208.234.146/live/gdgj.m3u8
 鳳凰中文臺,http://173.208.234.146/live/fhzw.m3u8
 鳳凰香港臺,http://173.208.234.146/live/fhxg.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -4635,7 +4620,6 @@ TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 澳门MACAU,https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w1839236055.m3u8
 澳视澳门 ,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
@@ -4652,15 +4636,14 @@ TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 中天新闻,https://7612-5516-affc-d88b.kylintv.tv/live/cti_iphone.m3u8
-中天新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4a789f0e146848bda0dee842cba28533;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
-中天新闻,http://31.43.191.125:8080/restream/restream/34817
+中 天 新闻,http://31.43.191.125:8080/restream/restream/34817
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS,https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
+TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 東森中國台,http://38.64.72.148/hls/modn/list/2003/playlist.m3u8
 東森超視美洲台,http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
 東森美洲衛視,http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
 東森美洲HD,http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
-TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
@@ -4715,17 +4698,11 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 东方卫视,http://58.245.255.38:8888/tsfile/live/0107_1.m3u8?key=txiptv&amp;authid=0
 海南卫视,http://38.75.136.137:98/gslb/dsdqpub/hinwshd.m3u8?auth=testpub
 快乐垂钓,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
-ELTA体育2,http://31.43.191.125:8080/restream/restream/34865
-ELTA体育3,http://31.43.191.125:8080/restream/restream/34866
-博斯运动1,http://31.43.191.125:8080/restream/restream/34884
-博斯运动2,http://31.43.191.125:8080/restream/restream/34883
-博斯高球1,http://31.43.191.125:8080/restream/restream/34882
-博斯高球2,http://31.43.191.125:8080/restream/restream/34881
 CCTV 13-新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-CCTV-4 America,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN JP,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
 CGTN Espanol,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
 广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
 广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
 广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
@@ -4928,6 +4905,8 @@ FX2,https://toonixhls.wns.live/hls/stream.m3u8
 CGTN JP,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 TBS Japan,https://tbs5.mov3.co/hls/tbs.m3u8
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
+NHK BS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
+NHK-BS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
 NHK 総合,https://nhk4.mov3.co/hls/nhk.m3u8
 NHK G,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
 NHK E,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
@@ -4938,7 +4917,6 @@ TV Tokyo,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
 Fuji TV,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
 Tokyo MX1,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8
 Tokyo MX2,https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
-NHK BS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
 BS NTV,https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
 BS Asahi,https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
 BS TBS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
@@ -4947,7 +4925,6 @@ BS Fuji,https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
 BS 10,https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 BS 11,https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
 BS 12,https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
-NHK BS4K,https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8
 WOWOW Prime ,https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
 WOWOW Cinema,https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8
 WOWOW Live,https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
