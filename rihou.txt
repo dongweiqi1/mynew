@@ -4636,6 +4636,7 @@ DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/ind
 BFM Business,https://jmp2.uk/stvp-FRBD4100006OC
 fox Business,https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_400.m3u8
 fox-Business,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105893.ts
+Fox News,http://doubleclicktv.live:80/natashahawkins/1784295306/1038
 FOX NEW,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/19147/index.m3u8
 FOX NEWS,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
 FOX NEWS NOW,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
@@ -4648,9 +4649,10 @@ cnbc asia,http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8?proxy=true
 CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 CNBC,https://jmp2.uk/stvp-GBBD3600001NO#https://jmp2.uk/stvp-ITBD3600002PA
 NBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
+MSNBC,http://doubleclicktv.live:80/natashahawkins/1784295306/1034
 MSNBC HD,http://4.30.180.36:8420/msnbc/index.m3u8?token=test
-MSNBC,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102192.ts
-MSNBC,https://p12.usnlive.com/stream/msnbc.m3u8
+MSNBC ,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102192.ts
+MSNBC ,https://p12.usnlive.com/stream/msnbc.m3u8
 NBC LX Home,https://jmp2.uk/stvp-USBB40000028E
 NBC News NOW,https://jmp2.uk/stvp-GBBB1500004LG#https://jmp2.uk/stvp-ITBC4000028E#https://jmp2.uk/stvp-CAAJ2700011IF
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
@@ -4985,15 +4987,12 @@ Astro欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 海南卫视,http://38.75.136.137:98/gslb/dsdqpub/hinwshd.m3u8?auth=testpub
 快乐垂钓,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
 US| CNN News,http://doubleclicktv.live:80/natashahawkins/1784295306/1041
-US| CNBC News,http://doubleclicktv.live:80/natashahawkins/1784295306/1043
 US| NBC News NOW,http://doubleclicktv.live:80/natashahawkins/1784295306/992
 US| Newsmax,http://doubleclicktv.live:80/natashahawkins/1784295306/1024
 US| NewsNation,http://doubleclicktv.live:80/natashahawkins/1784295306/995
-US| MSNBC,http://doubleclicktv.live:80/natashahawkins/1784295306/1034
 US| ABC News Live,http://doubleclicktv.live:80/natashahawkins/1784295306/1067
 US| BBC America,http://doubleclicktv.live:80/natashahawkins/1784295306/1066
 US| BBC World News,http://doubleclicktv.live:80/natashahawkins/1784295306/1065
-US| Fox News,http://doubleclicktv.live:80/natashahawkins/1784295306/1038
 US| The Grio,http://doubleclicktv.live:80/natashahawkins/1784295306/1063
 US| C-SPAN 1,http://doubleclicktv.live:80/natashahawkins/1784295306/1061
 US| C-SPAN 2,http://doubleclicktv.live:80/natashahawkins/1784295306/1060
