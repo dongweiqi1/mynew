@@ -11,7 +11,8 @@ EXCLUDE_KEYWORDS = [
     "频晴", "频陆", "地区", "轮播", "测试", "移动", "赛事", "内网",
     "限", "歌曲","移动", "联通","私密","少儿","体育","记录","听书","老年","解说","监控","DJ","加入","(内)","韩剧","专用",
                     "动漫","非诚","向前冲","百分百","集结号","好野","行不行","更新","国际影院","专用","上海综合","江西综合",
-                    "虎牙","斗鱼","电台","定制","综艺","电视剧","广场舞","戏曲","风景","游戏","梯","TG","三网2","NBA","直播","四季","内网","测试"
+                    "虎牙","斗鱼","电台","定制","综艺","电视剧","广场舞","戏曲","风景","游戏","梯","TG","三网2","NBA","直播","四季","内网","测试","更新","央视",
+    "地方"
 ]
 
 # 行内容过滤关键词
@@ -192,6 +193,7 @@ class TVSourceProcessor:
             "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt","test",
             "https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/TMP/temp.txt","yuchen",
             "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive","swtv",
+            "https://raw.githubusercontent.com/pattry/iptv-action/refs/heads/master/output/ipv4/result.txt","PT",
         ]
         print(f"源URL: {len(urls)}个配置项")
         if not self.fetch_multiple_urls(urls):
