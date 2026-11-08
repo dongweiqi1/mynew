@@ -692,7 +692,7 @@ Abnaz TV,https://live.toponlinetv.com/abnaztv/index.m3u8?origin=github.com/amaze
 Kandan TV,https://stream.onecloudlive.in/knrtv/knrtvhd/index.m3u8?origin=github.com/amazeyourself
 CTN Salem,http://ctntv.7starcloud.com:1935/live/ctn/live.m3u8?origin=github.com/amazeyourself
 Yugam TV,https://3.proxy.nellaiiptv.com/DINESH/YUGAM/index.m3u8?origin=github.com/amazeyourself&token=YAAL
-Idhayam TV,https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8?origin=github.com/amazeyourself
+Idhayam TV,https://tvstream.cloudlive24.com/live/c882af65-7145-4e9b-9fc0-bffede00e640.m3u8?origin=github.com/amazeyourself
 TBC TV,https://stream.iplive.xyz/smmedia/tbctv/index.m3u8?origin=github.com/amazeyourself
 TBC TV,https://rtmphub.in/hls/tbctv/live/xprdxTPK2QYuR75DHVNuoK9GbQqFuGTr/index.m3u8?origin=github.com/amazeyourself
 AP TV Tamil,http://hlsstream.apcloud.in/aptv/aptv/index.m3u8?origin=github.com/amazeyourself
